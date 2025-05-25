@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="@string/common_gardening_problems_and_solutions"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="@string/yellow_leaves_ncause_overwatering_nsolution_water_only_when_topsoil_feels_dry_n_n_pests_on_plants_ncause_aphids_caterpillars_nsolution_spray_neem_oil_or_use_organic_pesticides_n_n_plants_wilting_ncause_root_rot_nsolution_improve_soil_drainage_n_n_poor_soil_quality_ncause_lack_of_nutrients_nsolution_add_compost_and_organic_fertilizers_n_n_stunted_growth_ncause_not_enough_sunlight_nsolution_move_to_a_sunnier_location_n_n_tip_regular_care_and_observation_healthy_plants"
+            android:textSize="18sp"
+            android:lineSpacingExtra="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</ScrollView>

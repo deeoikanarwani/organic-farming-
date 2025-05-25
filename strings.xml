@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">urbanorganicfarming</string>
+    <string name="deepika_narwani_2022pcecsdeepika037_poornima_org">DEEPIKA NARWANI - 2022PCECSDEEPIKA037@POORNIMA.ORG</string>
+    <string name="blink">BLINK</string>
+    <string name="add_some_soil_during_planting_to_make_it_healthier">ADD SOME SOIL DURING PLANTING TO MAKE IT HEALTHIER</string>
+    <string name="organic_farming_is_a_method_of_farming_without_using_synthetic_chemicals">Organic farming is a method of farming without using synthetic chemicals…</string>
+    <string name="what_is_organic_farming">What is Organic Farming?</string>
+    <string name="urban_organic_farming">Urban Organic Farming</string>
+    <string name="urban_gardening_tips">Urban Gardening Tips</string>
+    <string name="nearby_organic_markets">Nearby Organic Markets</string>
+    <string name="contact_help">Contact / Help</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="needs_sunlight_and_moist_soil_water_daily_used_in_medicine_air_purification">Needs sunlight and moist soil. Water daily. Used in medicine &amp; air purification.</string>
+    <string name="tulsi_holy_basil">Tulsi (Holy Basil)</string>
+    <string name="urban_organic_plant_database">Urban Organic Plant Database</string>
+
+    <!-- Soil Pollution and Common Problems clean texts -->
+    <string name="soil_pollution_awareness">Soil Pollution Awareness</string>
+    <string name="soil_pollution_details">✅ Common causes: chemical fertilizers, pesticides, industrial waste.\n\n✅ Effects: Reduced soil fertility, toxic crops, poor biodiversity.\n\n✅ Solutions:\n- Use compost and organic fertilizers.\n- Avoid chemical pesticides.\n- Rotate crops and grow cover crops.\n- Support eco-friendly farming practices.\n\nGrowing your own organic plants helps heal the soil!</string>
+
+    <string name="common_gardening_problems_solutions">❓ Yellow Leaves:\nCause: Overwatering.\nSolution: Water only when topsoil feels dry.\n\n❓ Pests on Plants:\nCause: Aphids, caterpillars.\nSolution: Spray neem oil or use organic pesticides.\n\n❓ Plants Wilting:\nCause: Root rot.\nSolution: Improve soil drainage.\n\n❓ Poor Soil Quality:\nCause: Lack of nutrients.\nSolution: Add compost and organic fertilizers.\n\n❓ Stunted Growth:\nCause: Not enough sunlight.\nSolution: Move to a sunnier location.\n\n✅ Tip: Regular care and observation = Healthy Plants!</string>
+
+    <string name="common_problems_solutions">Common Problems &amp; Solutions</string>
+    <string name="video_tutorials">Video Tutorials</string>
+    <string name="soil_pollution_aware">soil_pollution_aware</string>
+    <string name="search_a_plant">Search a plant…</string>
+    <string name="tip_water_your_plants_early_in_the_morning">🌞 Tip: Water your plants early in the morning!</string>
+    <string name="plant_database">🌿 Plant Database</string>
+    <string name="featured_plants">🌿 Featured Plants</string>
+    <string name="tulsiplant">tulsiplant</string>
+    <string name="aloe_vera_helps_with_skin_digestion"><![CDATA[🌿 Aloe Vera helps with skin & digestion!]]></string>
+    <string name="aloe_vera_helps_with_skin_digestions"><![CDATA[🌿 Aloe Vera helps with skin & digestion!]]></string>
+    <!-- Common Problems Title -->
+    <string name="common_gardening_problems_and_solutions">🛠️ Common Gardening Problems &amp; Solutions</string>
+
+    <!-- Full Detailed Gardening Issues + Tips -->
+    <string name="yellow_leaves_ncause_overwatering_nsolution_water_only_when_topsoil_feels_dry_n_n_pests_on_plants_ncause_aphids_caterpillars_nsolution_spray_neem_oil_or_use_organic_pesticides_n_n_plants_wilting_ncause_root_rot_nsolution_improve_soil_drainage_n_n_poor_soil_quality_ncause_lack_of_nutrients_nsolution_add_compost_and_organic_fertilizers_n_n_stunted_growth_ncause_not_enough_sunlight_nsolution_move_to_a_sunnier_location_n_n_tip_regular_care_and_observation_healthy_plants">
+❓ Yellow Leaves:\nCause: Overwatering.\nSolution: Water only when topsoil feels dry.\n\n
+❓ Pests on Plants:\nCause: Aphids, caterpillars.\nSolution: Spray neem oil or use organic pesticides.\n\n
+❓ Plants Wilting:\nCause: Root rot.\nSolution: Improve soil drainage.\n\n
+❓ Poor Soil Quality:\nCause: Lack of nutrients.\nSolution: Add compost and organic fertilizers.\n\n
+❓ Stunted Growth:\nCause: Not enough sunlight.\nSolution: Move to a sunnier location.\n\n
+✅ Tip: Regular care and observation = Healthy Plants!
+</string>
+
+
+    <!-- Plant Names -->
+    <string name="money_plant">Money Plant</string>
+    <string name="aloe_vera">Aloe Vera</string>
+    <string name="neem">Neem</string>
+    <string name="basil">Basil</string>
+    <string name="lemongrass">Lemongrass</string>
+    <string name="marigold">Marigold</string>
+    <string name="snake_plant">Snake Plant</string>
+    <string name="peace_lily">Peace Lily</string>
+    <string name="curry_leaves">Curry Leaves</string>
+
+    <!-- Descriptions -->
+    <string name="money_plant_info">Easy to grow indoors. Requires moderate sunlight and weekly watering.</string>
+    <string name="aloe_vera_info">Needs bright light. Water once a week. Great for skin care.</string>
+    <string name="neem_info">Requires full sun. Medicinal uses. Avoid overwatering.</string>
+    <string name="basil_info">Loves sunlight. Water daily. Useful in cooking and medicinal.</string>
+    <string name="lemongrass_info">Prefers warm climate. Water regularly. Repels mosquitoes.</string>
+    <string name="marigold_info">Needs full sun. Helps in pest control. Bright orange flowers.</string>
+    <string name="snake_plant_info">Low maintenance. Survives low light. Purifies air.</string>
+    <string name="peace_lily_info">Loves shade. Water when soil is dry. Removes toxins.</string>
+    <string name="curry_leaves_info">Needs sunlight. Water every 2–3 days. Used in cooking.</string>
+
+    <!-- Tulsi plant name -->
+    <string name="tulsi">Tulsi (Holy Basil)</string>
+
+    <!-- Soil Awareness Summary Text -->
+    <string name="common_causes_chemical_fertilizers_pesticides_industrial_waste_n_n_effects_reduced_soil_fertility_toxic_crops_poor_biodiversity_n_n_solutions_n_use_compost_and_organic_fertilizers_n_avoid_chemical_pesticides_n_rotate_crops_and_grow_cover_crops_n_support_eco_friendly_farming_practices_n_n_growing_your_own_organic_plants_helps_heal_the_soil">
+✅ Common causes: chemical fertilizers, pesticides, industrial waste.\n\n
+✅ Effects: Reduced soil fertility, toxic crops, poor biodiversity.\n\n
+✅ Solutions:\n
+- Use compost and organic fertilizers.\n
+- Avoid chemical pesticides.\n
+- Rotate crops and grow cover crops.\n
+- Support eco-friendly farming practices.\n\n
+🌱 Growing your own organic plants helps heal the soil!
+</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="plant_info">Plant Info</string>
+    <string name="about_organic_farming_full">
+🌱 **What is Organic Farming?**
+
+Organic farming is a method of growing crops and raising animals without synthetic chemicals like pesticides, herbicides, or fertilizers. It promotes ecological balance and aims to conserve biodiversity.
+
+👩‍🌾 **Core Principles**:
+• Maintain healthy soil through composting and crop rotation
+• Avoid GMOs and harmful synthetic inputs
+• Promote animal welfare and natural behavior
+• Emphasize sustainability and resource conservation
+
+🏙️ **Urban Relevance**:
+Urban organic farming brings food production to rooftops, balconies, and small plots in cities. This empowers citizens to eat healthier, reduce carbon footprint, and reconnect with nature.
+
+💡 **Did You Know?**
+Over 90% of urban households can grow herbs and leafy vegetables with minimal effort — right on their balconies!
+</string>
+    <string name="urban_gardening_tips_full">
+🌿 **Urban Gardening Tips**
+
+1️⃣ **Start with Simple Plants**
+Begin with herbs like Tulsi, Mint, Coriander — they require little care and grow well in pots.
+
+2️⃣ **Use Organic Soil Mix**
+Combine compost, cocopeat, and garden soil. Avoid synthetic fertilizers.
+
+3️⃣ **Watering Schedule**
+Water early morning. Never overwater. Use recycled water when possible.
+
+4️⃣ **Light  Air**
+Keep plants where they get 4–6 hours of indirect sunlight. Ensure airflow.
+
+5️⃣ **Pest Management**
+Use neem spray or garlic-turmeric water. No chemicals needed.
+
+6️⃣ **Container Choices**
+Use old buckets, bottles, or eco-pots. Drill drainage holes!
+
+🌱 **Bonus Tip**: Compost your kitchen waste into rich fertilizer!
+</string>
+    <string name="plant_tulsi_info">
+🌿 **Tulsi (Holy Basil)**
+
+- 🌤️ Light: Full Sun
+- 💧 Water: Once a day
+- 🪴 Soil: Well-draining, rich in compost
+- 🛡️ Benefits: Anti-bacterial, boosts immunity, purifies air
+- 📍 Grow on balcony or windowsill
+
+📝 Tip: Pinch leaves weekly to encourage bushy growth!
+</string>
+
+    <string name="plant_mint_info">
+🌿 **Mint (Pudina)**
+
+- ☁️ Light: Partial shade
+- 💧 Water: Keep soil moist
+- 🌱 Soil: Loose, nutrient-rich
+- 🍽️ Uses: Fresh chutneys, tea, cooling drinks
+- 💡 Grows well in recycled water bottles
+
+🚫 Warning: Spreads fast — plant in isolated pots.
+</string>
+    <string name="soil_awareness_full">
+🌍 **Soil Pollution Awareness**
+
+Soil is not just dirt — it’s a living system full of microbes, minerals, and life. But it’s in danger.
+
+❌ **Main Pollutants**:
+• Pesticides
+• Heavy metals from industry
+• Plastics and non-biodegradable waste
+• Excessive chemical fertilizers
+
+📉 **Effects**:
+• Poor plant growth
+• Contaminated food supply
+• Polluted groundwater
+• Soil infertility and erosion
+
+✅ **Solutions**:
+• Switch to compost and organic manure
+• Grow native plants
+• Stop using plastic mulching
+• Educate your community
+
+🌱 Growing even one plant in clean soil makes a difference.
+</string>
+    <string name="gardening_problems_full">
+🛠️ **Common Gardening Problems &amp; Solutions**
+
+❗ **Yellowing Leaves**
+• Cause: Overwatering or poor drainage
+• Fix: Let soil dry between watering
+
+🐛 **Pests on Plants**
+• Cause: Aphids, mealybugs
+• Fix: Use neem oil, garlic spray, or companion planting
+
+🥀 **Wilting Plants**
+• Cause: Root rot or fungal infection
+• Fix: Repot with dry soil and better drainage
+
+🌑 **Stunted Growth**
+• Cause: Lack of nutrients or sunlight
+• Fix: Add compost; relocate for better light
+
+🍃 **Leaf Burn**
+• Cause: Excess sun or fertilizer
+• Fix: Adjust exposure; flush soil with clean water
+
+📈 **General Tip**: Observe daily and record changes to spot issues early.
+</string>
+    <string name="contact_full">
+📧 Email: urbanfarming@greenheaven.org
+📱 Phone: +91 90000 12345
+🌐 Website: www.greenheavenfarming.org
+
+💬 Feedback is welcome! Help us improve by sharing your experience.
+</string>
+    <string name="video_tutorials_url">https://www.youtube.com/results?search_query=urban+organic+farming+tutorial</string>
+    <string name="email_contact">📧 Email: deepikanarwani2003@gmail.com</string>
+    <string name="phone_contact">📞 Phone</string>
+    <string name="email_2022pcecsdeepika037_poornima_org">📧 Email: 2022pcecsdeepika037@poornima.org</string>
+    <string name="phone_91_7340380562">📱 Phone: +91-7340380562</string>
+    <string name="name_deepika_narwani">Name: Deepika Narwani</string>
+    <string name="contact_information">📞 Contact Information</string>
+
+
+</resources>

@@ -1,0 +1,51 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="🌿 Recommended Home Plants"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#388E3C"
+            android:layout_marginBottom="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <!-- Plant Cards -->
+        <!-- 1. Tulsi -->
+        <include layout="@layout/plant_card" />
+
+        <!-- 2. Money Plant -->
+        <include layout="@layout/plant_card" />
+
+        <!-- 3. Aloe Vera -->
+        <include layout="@layout/plant_card" />
+
+        <!-- 4. Neem -->
+        <include layout="@layout/plant_card" />
+
+        <!-- 5. Basil -->
+        <include layout="@layout/plant_card" />
+
+        <!-- 6. Lemongrass -->
+        <include layout="@layout/plant_card" />
+
+        <!-- 7. Marigold -->
+        <include layout="@layout/plant_card" />
+
+        <!-- 8. Snake Plant -->
+        <include layout="@layout/plant_card" />
+
+        <!-- 9. Peace Lily -->
+        <include layout="@layout/plant_card" />
+
+        <!-- 10. Curry Leaves -->
+        <include layout="@layout/plant_card" />
+    </LinearLayout>
+</ScrollView>
